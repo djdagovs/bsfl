@@ -1,10 +1,6 @@
 var searchData=
 [
-  ['show_5fusage',['show_usage',['../group__misc.html#ga6c1467e335d701d51c15c31cbf00e8e2',1,'bsfl.sh']]],
-  ['stack_5fpop',['stack_pop',['../group__stack.html#gafcec48f7160b75a50d6a5ff973915768',1,'bsfl.sh']]],
-  ['stack_5fpush',['stack_push',['../group__stack.html#ga6b8010e6e027472c4e17b4d8bdfbb9f2',1,'bsfl.sh']]],
-  ['start_5fwatch',['start_watch',['../group__time.html#ga7e2fbddbf76933cd70d29512c2f12519',1,'bsfl.sh']]],
-  ['stop_5fwatch',['stop_watch',['../group__time.html#gabdbb7601d766420b7be1703457c91aa7',1,'bsfl.sh']]],
-  ['str_5freplace',['str_replace',['../group__string.html#ga8a33cb1aa9a5e78d96dc840a2fb9e7aa',1,'bsfl.sh']]],
-  ['str_5freplace_5fin_5ffile',['str_replace_in_file',['../group__string.html#gac21da88366bc39ab15e65991d7adddb5',1,'bsfl.sh']]]
+  ['tolower',['tolower',['../group__string.html#ga81a9af73f604cd4dcf73730c27a71bb6',1,'bsfl.sh']]],
+  ['toupper',['toupper',['../group__string.html#ga059d2bcfe2fff8a3b7690b5eff415206',1,'bsfl.sh']]],
+  ['trim',['trim',['../group__string.html#gaf851f60e0e4d97390e67c9c0d49e1172',1,'bsfl.sh']]]
 ];

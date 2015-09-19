@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['now',['now',['../group__time.html#ga80593ccdc0339775ddd5d82c37ca4f6b',1,'bsfl.sh']]]
+  ['option_5fenabled',['option_enabled',['../group__variable.html#ga6bdc53eb2a5563fa32ea4b342b665b70',1,'bsfl.sh']]]
 ];

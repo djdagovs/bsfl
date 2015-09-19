@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['show_5fusage',['show_usage',['../group__misc.html#ga6c1467e335d701d51c15c31cbf00e8e2',1,'bsfl.sh']]],
   ['stack',['Stack',['../group__stack.html',1,'']]],
   ['stack_5fpop',['stack_pop',['../group__stack.html#gafcec48f7160b75a50d6a5ff973915768',1,'bsfl.sh']]],
   ['stack_5fpush',['stack_push',['../group__stack.html#ga6b8010e6e027472c4e17b4d8bdfbb9f2',1,'bsfl.sh']]],

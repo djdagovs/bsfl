@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['elapsed',['elapsed',['../group__time.html#ga680d052e47a1d2360755d65934ccdf9f',1,'bsfl.sh']]]
+  ['file_5fexists',['file_exists',['../group__file__and__dir.html#ga7bafedbe019acc08d0987a035fdf7496',1,'bsfl.sh']]]
 ];
